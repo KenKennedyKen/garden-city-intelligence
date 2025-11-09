@@ -35,7 +35,7 @@ Future roles: Marketing Lead • AI Specialist
 - ✅ Invite Joe as collaborator  
 - ✅ Get EINs  
 
-Click any [Issue #] to assign or comment.
+Click any [Issue #] to assign or comment.(?what?)
 
 ---
 
@@ -43,10 +43,10 @@ Click any [Issue #] to assign or comment.
 
 | Phase | Tasks | Owner | Status | Due |
 |-------|--------|--------|--------|------|
-| 1. Foundation | Domain • Email • 1-page site | Brock | Done | Nov 8 |
-| 2. Presence | IG/FB/LI • 3× teasers/week | Joe | In Progress | Nov 15 |
-| 3. MVP Launch | $49 Zoom • Calendly + Stripe | Brock | To Do | Nov 22 |
-| 4. Scale | $29/mo Tip Club • Corporate gigs | Both | Not Started | Dec |
+| 1. Foundation | Domain • Email • 1-page site | Anyone | To Do | Nov |
+| 2. Presence | IG/FB/LI • 3× teasers/week | Anyone | In Progress | Dec |
+| 3. MVP Launch | $49 Zoom • Calendly + Stripe | Anyone | To Do | 2026 |
+| 4. Scale | $29/mo Tip Club • Corporate gigs | Both | Not Started | 2027 |
 
 ---
 
